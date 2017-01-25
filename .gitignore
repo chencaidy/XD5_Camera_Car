@@ -1,0 +1,31 @@
+# IAR Workspace Folder
+Debug
+Release
+BOOT
+FLASH
+RAM
+settings
+
+# IAR Project Temp File
+*.dep
+*.ewt
+*.bak
+
+# Keil Workspace Folder
+Listings
+Objects
+
+# Keil Project Temp File
+*.uvguix.*
+*.txt
+*.ini
+*.tmp
+*.scvd
+*.map
+
+# Executables
+*.exe
+*.out
+*.app
+*.hex
+*.bin
